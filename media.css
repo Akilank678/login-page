@@ -1,0 +1,31 @@
+ @media screen and (max-width:768px) {
+        
+          .ab{
+            margin: 90px 6px;
+            padding: -0px;
+            width: 400px;
+          }
+          .mm i {
+            position: absolute;
+            top: 46%;
+            left: 80%;
+          }
+          .ll i{
+             position: absolute;
+            top: 38%;
+            left: 80%;
+          }
+          .tt{
+            top: 17px;
+           right: 10px;
+          }
+          .pp{
+            left: 9px;
+          }
+          body{
+            background-image: url(background.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;   
+       }
+}
